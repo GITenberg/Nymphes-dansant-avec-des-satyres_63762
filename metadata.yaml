@@ -1,0 +1,36 @@
+_repo: Nymphes-dansant-avec-des-satyres_63762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Tardivaux, René
+    - Boylesve, Rene
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63762'
+  lccn: '26020169'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: Divus Aretinus -- L'adoration des mages -- La danseuse de Tanagre
+  -- Le miracle du saint vaisseau -- Les tablettes de Cythère -- Le bon jugement du
+  tribunal des mœurs, à Venise -- Tabubu -- Voyage de Candide avec Pangloss au vrai
+  Eldorado.
+title: Nymphes dansant avec des satyres
+url: http://www.gutenberg.org/ebooks/63762
